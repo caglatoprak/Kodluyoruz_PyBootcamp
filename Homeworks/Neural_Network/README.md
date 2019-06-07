@@ -14,6 +14,6 @@ Sizden istenenler:
 
 
 - Write Python program which can perform advanced calculations based on input, weight and bias values.
-- calculate the output of O1 and O2 neurons.
+- calculate the output of o1 and o2 neurons.
 
 Yararlandığım Kaynak: https://devhunteryz.wordpress.com/2018/06/20/geri-yayilimbackpropagation/

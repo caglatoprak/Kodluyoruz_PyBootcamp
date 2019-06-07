@@ -1,6 +1,6 @@
  Sıfırdan Yapay Sinir Ağı Yazma
  
-[![image](https://i.hizliresim.com/Yd5ZBk.jpg)](https://hizliresim.com/Yd5ZBk)
+![alt text](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/09/Backpropagation-Example-Backpropagation-Edureka.png)
 
 Şekilde görülen yapay sinir ağı (neural network) için ileri yönlü hesaplamayı Python'da yapınız.
 

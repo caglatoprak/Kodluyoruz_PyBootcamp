@@ -1,6 +1,6 @@
 https://www.kaggle.com/caglatoprak/academic-performace-analysis
 
-Kaggle platformunu anlayıp analize başladığım ve halen analize devam ettiğim ilk veri setim.
+Kaggle platformunu anlayıp analize başladığım ve halen devam ettiğim ilk veri setim.
 
 Veri Seti Özellikleri:
 
